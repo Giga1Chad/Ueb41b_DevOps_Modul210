@@ -1,7 +1,7 @@
 ﻿namespace Ueb08d_Sortieren_Fruechte
 {    
     /// <summary>
-    /// Klasse Birne
+    /// Klasse Birnee
     /// </summary>
     public class Birne : Frucht
     {

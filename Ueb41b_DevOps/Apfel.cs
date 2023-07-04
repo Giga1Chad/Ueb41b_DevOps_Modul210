@@ -1,7 +1,7 @@
 ﻿namespace Ueb08d_Sortieren_Fruechte
 {
     /// <summary>
-    /// Klasse Apfels
+    /// Klasse Apfelss
     /// </summary>
     public class Apfel : Frucht
     {
